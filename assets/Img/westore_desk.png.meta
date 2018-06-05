@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "eecefd7d-00b2-4a6a-b6a0-2d0afe8cbb89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "westore_desk": {
+      "ver": "1.0.3",
+      "uuid": "e1f731f0-c70f-4e04-99b0-5c6ee1bac285",
+      "rawTextureUuid": "eecefd7d-00b2-4a6a-b6a0-2d0afe8cbb89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 148,
+      "height": 148,
+      "rawWidth": 148,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
